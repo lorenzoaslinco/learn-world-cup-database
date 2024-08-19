@@ -1,0 +1,4 @@
+ game_id | year | round | winner_id | opponent_id | winner_goals | opponent_goals 
+---------+------+-------+-----------+-------------+--------------+----------------
+(0 rows)
+
